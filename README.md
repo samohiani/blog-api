@@ -140,8 +140,3 @@ This project was developed as part of a backend engineering assessment. Thanks f
 ## 📩 Contact
 
 If you have any questions or feedback, feel free to reach out on [GitHub](https://github.com/samohiani) or send an email at ohianisammy2005@gmail.com.
-```
-
----
-
-Let me know your actual GitHub URL or name if you'd like it customized more — or want deployment steps included (e.g. on Railway, Render, or Heroku).
