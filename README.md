@@ -2,6 +2,7 @@
 
 A simple RESTful API built with **Node.js**, **Express**, **TypeScript**, **PostgreSQL**, and **TypeORM** to manage blog posts. This API supports full **CRUD** operations and includes proper logging and error handling.
 
+This is the live link to test the backend: https://blog-api-ncup.onrender.com
 ---
 
 ## 🚀 Features
