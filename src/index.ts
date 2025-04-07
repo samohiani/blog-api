@@ -1,7 +1,7 @@
 import express, { Request, Response, NextFunction } from "express";
 import morgan from "morgan";
 import { AppDataSource } from "./config";
-import dotenv from "dotenv";
+import * as dotenv from "dotenv";
 import postRoutes from "./routes/postRoutes";
 
 dotenv.config();
